@@ -32,7 +32,7 @@ const vagas = [
     titulo: 'Desenvolvedor NodeJS',
     localizacao: 'remoto',
     nivel: 'pleno',
-    modalidade: 'pj',
+    modalidade: 'PJ',
     salarioMin: 5000,
     salarioMax: 6500,
     requisitos: ['HTML', 'CSS', 'JavaScript', 'jQuery']
@@ -42,7 +42,7 @@ const vagas = [
     titulo: 'Desenvolvedor fullstack',
     localizacao: 'remoto',
     nivel: 'pleno',
-    modalidade: 'pj',
+    modalidade: 'PJ',
     salarioMin: 4000,
     salarioMax: 6000,
     requisitos: ['HTML', 'CSS', 'JavaScript', 'jQuery']
@@ -72,7 +72,7 @@ const vagas = [
     titulo: 'Desenvolvedor front-end para projeto internacional',
     localizacao: 'remoto',
     nivel: 'senior',
-    modalidade: 'pj',
+    modalidade: 'PJ',
     salarioMin: 12000,
     salarioMax: 15000,
     requisitos: ['HTML', 'CSS', 'JavaScript', 'jQuery']
